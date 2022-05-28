@@ -9,6 +9,6 @@ Functionality
  * Displays list of products in a table
 
 Deficiencies 
- * Litte to no styling 
+ * Little to no styling 
  * List displaying only works on updated table
  * No security implemented
