@@ -1,4 +1,5 @@
 # eCommerce Product List
+* This was a simple class assignment at SAIT
  
 Simple eCommerce Product List developed using Java
 * Implemented through JSPs, Servlets, and a mySQL database
